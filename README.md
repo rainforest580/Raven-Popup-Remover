@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  A Chrome extension offering instant removal of cookie queries especially for Cambridge University websites.
+  A Chrome extension offering automatic removal of cookie queries especially for Cambridge University websites.
 </p>
 
 ## Usage
