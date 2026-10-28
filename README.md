@@ -16,7 +16,7 @@
 ## Usage
 
 1. Download this repository into a folder you like.
-2. Open `chrome://extensions` and enable Developer mode. Choose `Load unpacked`.
+2. Open `chrome://extensions` and enable Developer mode. Choose `Load unpacked` and select the downloaded folder.
 3. Click the raven icon at the top-right corner of the browser; choose `Accept all`, `Reject all`, or `Off`.
 4. To suppress automatic click on the current website, check `Never act on this website`.
 
